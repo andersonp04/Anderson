@@ -3,7 +3,7 @@
 ▪Gosto muito de tecnologia.<br>
 ▪Tenho experiência com elétrica, e manutenção de computador.<br>
 ▪Atualmente estou estudando desenvolvimento de front-end.<br>
-▪Fiz um curso de Full-stack pelo Senai.<br>
+▪Fiz Full-stack pelo Senai.<br>
 ▪E estou em constante busca de conhecimento.<br>
 
 
