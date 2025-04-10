@@ -1,10 +1,10 @@
 
 ### Olá! Sou Anderson.
 ▪Gosto muito de tecnologia.<br>
-▪Tenho experiencia com elétrica, e manutenção de computador.<br>
-▪Atualmente estou estudando desenvolvimento de fronte-end.<br>
+▪Tenho experiência com elétrica, e manutenção de computador.<br>
+▪Atualmente estou estudando desenvolvimento de front-end.<br>
 ▪Fiz um curso de Full-stack pelo Senai.<br>
-▪E estou em constate busca de conhecimento.<br>
+▪E estou em constante busca de conhecimento.<br>
 
 
 <div style="display: inline_block"><br>
